@@ -5,3 +5,4 @@ Technologies & Tools Language: JavaScript, java, python Testing Tools: Cypress, 
 Featured Project Inventory Management System: Node.js-bassed app for inventory operations, demonstrating modular ES6 syntax and JavaScript classes. Shopping Cart Testing - TutorialsNinja: Cypress automation project for e-commerce testing focused on user experience and functionality Verification Currently Learning I'm diving deeper into API testing and expploring CI/CD integrations to automate futher and streamline testing process
 
 How to Reach me Linkedin:www.linkedin.com/in/sanika-hole
+                GitHub: https://github.com/Sanika2176
