@@ -1,4 +1,4 @@
-Hi, there i'm Faneshwar Gite I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing,
+Hi, there i'm Sanika Hole I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing,
 
 *💻 Skills:*
 - Programming Languages: Java, JavaScript, Python
@@ -18,9 +18,9 @@ To test the manualy login functionality of demo website.
 - I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
 
 *📞 Get in Touch:*
-- *GitHub:* https://github.com/Fanu1931
-- *📫 Mail:* faneshwargite2018@gmail.com
-- *📄 Resume Link:* https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6726fdbb6f511f3183f248e2
+- *GitHub:*https://github.com/Sanika2176
+- *📫 Mail:*holesanika2@gmail.com
+- *📄 Resume Link:* https://www.canva.com/design/DAGVtC7eMHQ/po1S1raWw46wqcy7IhU9pQ/edit?utm_content=DAGVtC7eMHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 *✨ Excited about building and testing quality software that delivers great user experiences! ✨*
 
