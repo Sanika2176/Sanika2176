@@ -22,5 +22,6 @@ Hi, there i'm Sanika Hole I'm a passionate SDET/QA Engineer specializing in test
 
 *🌱 Current Focus:*
 - I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
+
 How to Reach me Linkedin:www.linkedin.com/in/sanika-hole
                 GitHub: https://github.com/Sanika2176
